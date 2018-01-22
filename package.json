@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "node-media-server": "^1.1.9"
+  }
+}
